@@ -1,24 +1,29 @@
 body {margin: 0; padding: 0; background: #000000; color: #ffffff; font-family: 'Montserrat', sans-serif;}
 
+/* .navbar */
 .navbar {padding: .4rem 0; background: url("../img/top.jpg") no-repeat center 0; background-size: contain;}
 .navbar .navbar-nav {}
 .navbar .navbar-nav .nav-item a {font-size: 14px; font-weight: 300}
-
-.carousel .carousel-item img {border-radius: 0 0 4px 4px; box-shadow: 0 0 10px 0 rgba(0,0,0,0.75);}
 
 @media (min-width: 768px) {
     .navbar {padding: .5rem .0rem}
 }
 
+/* .carousel */
+.carousel .carousel-item img {border-radius: 0 0 4px 4px; box-shadow: 0 0 10px 0 rgba(0,0,0,0.75);}
+
+/* .home-block */
 .home-block {margin: 2rem 0 4rem}
 .heading-block h6 {margin-bottom: 17px; color: rgba(255, 255, 255, 0.5); letter-spacing: 1.7px; text-transform: uppercase;}
 .heading-block h2 {margin-bottom: 30px; font-weight: 900}
 
+/* .about-us */
 .about-us {}
 .about-us .read-more {margin-top: 15px; border: 1px solid #efefef; color: #efefef}
 .about-us .read-more:hover {background-color: #efefef; color: #000}
 
 
+/* .seasons */
 .seasons .season {margin-bottom: 30px; overflow: hidden; display: block; text-decoration: none; color: #fff;  cursor: pointer;}
 .seasons .season .image {position: relative; border-radius: 4px; box-shadow: 0 100px 0 rgba(0,0,0,0.75); transition: all 0.3s ease;}
 .seasons .season .image:before {position: absolute; top: 0; left: 0; bottom: 0; width: 100%; height: 100%; text-align: center; content: "\f06e"; font-size: 80px;  font-family: "FontAwesome"; color: #111; background-color: rgba(0,0,0,0.4); opacity: 0;}
@@ -27,6 +32,7 @@ body {margin: 0; padding: 0; background: #000000; color: #ffffff; font-family: '
 .seasons .season .text-muted {margin-top: 0}
 
 
+/* .actors */
 .actors .actor {display: block; color: #fff; margin-bottom: 30px}
 .actors .actor:hover {text-decoration: none}
 .actors .actor .profile {width: 100%; height: 100%; display: block; border-radius: 4px; box-shadow: 0 100px 0 rgba(0,0,0,0.75);}
@@ -34,7 +40,19 @@ body {margin: 0; padding: 0; background: #000000; color: #ffffff; font-family: '
 .actors .actor .information {margin-top: 20px; text-align: center}
 .actors .actor .bio {display: none}
 
+/* .subscribe */
+.subscribe {margin-top: 4rem; padding: 2rem 0; background: url("../img/subscribe.jpg") no-repeat 0 0px; background-size: cover}
+.subscribe .form-control {height: 40px; background: #111; color: #555; font-size: 16px !important; width: 100%; border: 1px solid rgba(255, 255, 255, 0.2) !important; transition: 0.5s}
+.subscribe .form-control:focus {border: 1px solid rgba(0, 0, 0, 0.8) !important}
+.subscribe .form-control::-webkit-input-placeholder {color: #555}
+.subscribe .form-control:-moz-placeholder {color: #555}
+.subscribe .form-control::-moz-placeholder {color: #555}
+.subscribe .form-control:-ms-input-placeholder {color: #555}
+.subscribe .btn {height: 39px; border: none !important; background: #efefef; color: #000; font-size: 16px; text-transform: uppercase; font-weight: 400; padding-left: 30px; padding-right: 30px}
+.subscribe .form-inline .form-group {width: 100% !important; margin-bottom: 10px}
+.subscribe .form-inline .form-group .form-control {width: 100%}
 
+/* .footer */
 .footer {padding: 3rem 0 2rem; background: url("../img/footer.jpg") no-repeat center -200px; background-size: cover; box-shadow: inset 0 10px 10px 0 rgba(0,0,0,0.5);}
 .footer .widget h5 {margin-bottom: 20px; padding-left: 10px; border-left: 3px solid #333;}
 .footer .widget .footer-links {list-style-type: none; padding-left: 0;}

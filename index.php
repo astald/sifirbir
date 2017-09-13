@@ -192,6 +192,28 @@
                 </a>
             </div>
         </div>
+
+        <div class="subscribe home-block">
+            <div class="heading-block text-center">
+                <h6>Sıfır bir ile ilgili yeniliklerden haberdar olun</h6>
+                <h2>Abone Ol</h2>
+            </div>
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-8">
+                <form method="post" action="#/abone-ol" class="row">
+                    <div class="col-md-6 col-sm-6">
+                        <div class="form-group">
+                            <label for="email" class="sr-only">E-Posta</label>
+                            <input type="email" name="email" class="form-control" id="email" placeholder="E-Posta" required>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <button class="btn btn-default btn-block">Abone Ol</button>
+                    </div>
+                </form>
+                </div>
+            </div>
+        </div><!-- .subscribe -->
     </div>
 
 </section>
@@ -246,10 +268,9 @@
             </div>
         </div>
     </div>
-        <div class="copyright">
-            &copy; Sıfır Bir 2017 Tüm Hakları Saklıdır.
-        </div>
-
+    <div class="copyright">
+        &copy; Sıfır Bir 2017 Tüm Hakları Saklıdır.
+    </div>
 </div>
 </footer>
 
