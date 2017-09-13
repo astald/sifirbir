@@ -1,0 +1,28 @@
+body {margin: 0; padding: 0; background: #000000; color: #ffffff; font-family: 'Montserrat', sans-serif;}
+
+.navbar {padding: .4rem 0; background: url("../img/top.jpg") no-repeat center 0; background-size: contain;}
+.navbar .navbar-nav {}
+.navbar .navbar-nav .nav-item a {font-size: 16px; font-weight: 300}
+
+.carousel .carousel-item img {border-radius: 0 0 4px 4px; box-shadow: 0 0 10px 0 rgba(0,0,0,0.75);}
+
+@media (min-width: 768px) {
+    .navbar {padding: .5rem .0rem}
+}
+
+.home-block {margin: 2rem 0}
+.heading-block h6 {margin-bottom: 17px; color: rgba(255, 255, 255, 0.5); letter-spacing: 1.7px; text-transform: uppercase;}
+.heading-block h2 {margin-bottom: 30px; font-weight: 900}
+
+.about-us {}
+.seasons .season .title {}
+
+.actors .actor {display: block; color: #fff; margin-bottom: 30px}
+.actors .actor:hover {text-decoration: none}
+.actors .actor .profile {width: 100%; height: 100%; display: block; border-radius: 4px; box-shadow: 0 100px 0 rgba(0,0,0,0.75);}
+.actors .actor .overlay {background-color: rgba(0, 0, 0, 0.6); position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.3;  transition: all .3s ease-out;}
+.actors .actor .information {margin-top: 20px; text-align: center}
+.actors .actor .bio {display: none}
+
+
+footer {border-top: 1px solid #222; padding-top: 20px;}
