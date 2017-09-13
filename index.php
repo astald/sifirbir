@@ -21,9 +21,12 @@
             <div class="collapse navbar-collapse" id="navbarSifirBir">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active"><a class="nav-link" href="index.html">ANA SAYFA <span class="sr-only">(current)</span></a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">SEZONLAR</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">BÖLÜMLER</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">FRAGMANLAR</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">TEASERLER</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">YAZILAR</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">KAMERA ARKASI</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">HAKKIMIZDA</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">SPONSORLAR</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">İLETİŞİM</a></li>
                 </ul>
             </div>
