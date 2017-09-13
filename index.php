@@ -74,9 +74,9 @@
                 <p>Savaş, Cio ve Özgür, Adana'nın Hürriyet Mahallesi'nde doğup büyümüş, 20 li yaşlarında 3 gençtir.</p>
                 <p>Savaş hem yaşı itibariyle, daha da önemlisi cesareti, gözükaralığı, zekası ve kiritik zamanlarda aldığı doğru kararlar nedeniyle ''Abi'' konumundadır. Zamanla bu özelliği sayesinde kendisinden yaşça büyüklerin bile 'Abisi' olacaktır.</p>
                 <p>Cio ise biraz gösteriş meraklısı, gücüyle ve yaptıklarıyla övünmeyi seven, ama bunları bile hep planlı şekilde yapan birisidir.</p>
-                <a href="#">Devamını Görüntüle</a>
             </div>
         </div>
+        <div class="text-center"><a href="#" class="continue">Devamını Görüntüle</a></div>
     </div>
     <div class="seasons home-block">
         <div class="heading-block text-center">
