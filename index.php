@@ -107,14 +107,14 @@
             </div>
             <div class="col-sm-4">
                 <a class="season">
-                    <img src="https://i.ytimg.com/vi/sDj_nL7qFh4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBnOt8UpkMLxeVZSy_tATgOrbmtpA" alt="Season">
-                    <h4 class="title">Sıfır Bir - 5. Bölüm</h4>
+                    <img src="https://i.ytimg.com/vi/sliXwKUgHfs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDIrV5IO1wwTOZSZ9nSEmRG1vWS5Q" alt="Season">
+                    <h4 class="title">Sıfır Bir - 6. Bölüm</h4>
                 </a>
             </div>
             <div class="col-sm-4">
                 <a class="season">
-                    <img src="https://i.ytimg.com/vi/sliXwKUgHfs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDIrV5IO1wwTOZSZ9nSEmRG1vWS5Q" alt="Season">
-                    <h4 class="title">Sıfır Bir - 6. Bölüm</h4>
+                    <img src="https://i.ytimg.com/vi/sDj_nL7qFh4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBnOt8UpkMLxeVZSy_tATgOrbmtpA" alt="Season">
+                    <h4 class="title">Sıfır Bir - 5. Bölüm</h4>
                 </a>
             </div>
         </div>
