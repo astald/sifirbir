@@ -1,4 +1,4 @@
 # Sıfır Bir
-SIFIR BR Web Sayfası
+SIFIR BIR Web Sayfası
 # Demo Bağlantı
 http://demo.astald.com/sifirbir
